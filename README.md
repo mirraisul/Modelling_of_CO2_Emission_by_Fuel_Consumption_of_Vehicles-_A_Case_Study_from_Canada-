@@ -35,7 +35,9 @@ R libraries: tidyverse, ggplot2, rpart, rpart.plot, randomForest, gbm, vip, patc
 Conclusion
 
 -CO2 emission ∝ Fuel consumption (proved).
+
  -Multiple linear regression model is recommended, as it has the highest value of Square of the correlation coefficient and it is most interpretable.
+ 
  -As a post-hoc interpretation fuel consumption in the city and on the highway together always has higher effect and importance than considering only the city.
 
 
