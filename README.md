@@ -22,19 +22,15 @@ Objectives
  -Post hoc interpretation 
 
 Data Analysis Methods  
-Methods
+Methods: Linear model, Classification and regression tree (CART), Random forest, Gradient boosting model 
 
--Linear model 
--Classification and regression tree (CART) 
--Random forest 
--Gradient boosting model 
+Response: CO2 emission
 
--Response: CO2 emission
-
--2 predictors
+2 predictors
     -Fuel (premium gasoline) consumption in the city 
     -Fuel (premium gasoline) consumption in the city and on the highway combined
--R libraries: tidyverse, ggplot2, rpart, rpart.plot, randomForest, gbm, vip, patchwork and pdp 
+    
+R libraries: tidyverse, ggplot2, rpart, rpart.plot, randomForest, gbm, vip, patchwork and pdp 
 
 Conclusion
 
