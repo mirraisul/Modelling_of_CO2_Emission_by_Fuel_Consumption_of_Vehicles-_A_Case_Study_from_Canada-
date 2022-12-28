@@ -16,10 +16,10 @@ Details of how CO2 emissions by a vehicle can vary with the different features.
 Data contains data over a period of 7 years. 
 
 Objectives
- (1)Model to predict CO2 emission of vehicles by fuel consumption. 
- (2)Inference between CO2 emission and the corresponding predictors. 
- (3)Checking the validity of the model by cross validation.
- (4)Post hoc interpretation. 
+ (1) Model to predict CO2 emission of vehicles by fuel consumption. 
+ (2) Inference between CO2 emission and the corresponding predictors. 
+ (3) Checking the validity of the model by cross validation.
+ (4) Post hoc interpretation. 
 
 Data Analysis Methods  
 Methods: Linear model, Classification and regression tree (CART), Random forest, Gradient boosting model.
@@ -27,18 +27,18 @@ Methods: Linear model, Classification and regression tree (CART), Random forest,
 Response: CO2 emission
 
 2 predictors
-    -Fuel (premium gasoline) consumption in the city 
-    -Fuel (premium gasoline) consumption in the city and on the highway combined
+    (1) Fuel (premium gasoline) consumption in the city.
+    (2) Fuel (premium gasoline) consumption in the city and on the highway combined.
     
 R libraries: tidyverse, ggplot2, rpart, rpart.plot, randomForest, gbm, vip, patchwork and pdp 
 
 Conclusion
 
--CO2 emission ∝ Fuel consumption (proved).
+(1) CO2 emission ∝ Fuel consumption (proved).
 
- -Multiple linear regression model is recommended, as it has the highest value of Square of the correlation coefficient and it is most interpretable.
+ (2)Multiple linear regression model is recommended, as it has the highest value of Square of the correlation coefficient and it is most interpretable.
  
- -As a post-hoc interpretation fuel consumption in the city and on the highway together always has higher effect and importance than considering only the city.
+ (3)As a post-hoc interpretation fuel consumption in the city and on the highway together always has higher effect and importance than considering only the city.
 
 
 
