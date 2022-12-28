@@ -11,18 +11,18 @@ Problem Statement
 
 Dataset
 Accessed from https://www.kaggle.com/debajyotipodder/co2-emission-by-vehicles.
-This data are also Available at Canada Government official open data website.
+This data are also available at Canada Government official open data website.
 Details of how CO2 emissions by a vehicle can vary with the different features.
 Data contains data over a period of 7 years. 
 
 Objectives
- -Model to predict CO2 emission of vehicles by fuel consumption 
- -Inference between CO2 emission and the corresponding predictors 
- -Checking the validity of the model by cross validation 
- -Post hoc interpretation 
+ (1)Model to predict CO2 emission of vehicles by fuel consumption. 
+ (2)Inference between CO2 emission and the corresponding predictors. 
+ (3)Checking the validity of the model by cross validation.
+ (4)Post hoc interpretation. 
 
 Data Analysis Methods  
-Methods: Linear model, Classification and regression tree (CART), Random forest, Gradient boosting model 
+Methods: Linear model, Classification and regression tree (CART), Random forest, Gradient boosting model.
 
 Response: CO2 emission
 
