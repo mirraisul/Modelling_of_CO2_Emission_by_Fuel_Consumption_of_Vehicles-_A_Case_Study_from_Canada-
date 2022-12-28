@@ -10,10 +10,10 @@ Problem Statement
  -CO2 emission ∝ Fuel consumption 
 
 Dataset
--Accessed from https://www.kaggle.com/debajyotipodder/co2-emission-by-vehicles 
--This data are also Available at Canada Government official open data website
--Details of how CO2 emissions by a vehicle can vary with the different features.
--contains data over a period of 7 years. 
+Accessed from https://www.kaggle.com/debajyotipodder/co2-emission-by-vehicles.
+This data are also Available at Canada Government official open data website.
+Details of how CO2 emissions by a vehicle can vary with the different features.
+Data contains data over a period of 7 years. 
 
 Objectives
  -Model to predict CO2 emission of vehicles by fuel consumption 
