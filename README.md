@@ -1,4 +1,4 @@
-# Modelling_of_CO2_Emission_by_Fuel_Consumption_of_Vehicles-_A_Case_Study_from_Canada-
+# Modelling_of_CO2_Emission_by_Fuel_Consumption_of_Vehicles-_A_Case_Study_from_Canada
 
 This project is done and presented as part of the "Environmental Data Science" module at Brandenburg University of Technology, Cottbus, Germany. 
 
