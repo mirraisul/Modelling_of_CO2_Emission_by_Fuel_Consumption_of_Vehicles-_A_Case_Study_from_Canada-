@@ -1,4 +1,7 @@
 # Modelling_of_CO2_Emission_by_Fuel_Consumption_of_Vehicles-_A_Case_Study_from_Canada-
+
+This project is done and presented as part of the "Environmental Data Science" module at Brandenburg University of Technology, Cottbus, Germany. 
+
 Simulation of CO2 emission from fuel consumption of vehicles in Canada. Data are collected from  https://www.kaggle.com/debajyotipodder/co2-emission-by-vehicles.
 Statistical software R is used for the analysis. Several regression models for the analysis are done and the models are validated with cross validation. 
 
