@@ -44,6 +44,7 @@ Conclusion
  (3)As a post-hoc interpretation fuel consumption in the city and on the highway together always has higher effect and importance than considering only the city.
 
 
-![Final Integrated Plot] (/9.Final_integrated_plot.jpeg)
+![Final Integrated Plot](9.Final_integrated_plot.jpeg)
+
 
 
